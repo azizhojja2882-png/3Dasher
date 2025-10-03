@@ -1,0 +1,15 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+Obj/
+Build/
+Builds/
+UserSettings/
+.idea/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.pidb
+*.booproj
