@@ -1,0 +1,4 @@
+Scene: Splash
+Add: Canvas -> Text 'by AzStudio' (TextMeshPro recommended)
+Add: SplashController.cs (set delay ~3s)
+Make this scene first in Build Settings.

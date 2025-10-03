@@ -1,0 +1,3 @@
+Scene: MainMenu
+Add: Canvas with buttons: Play (Levels), Infinite, Shop, Settings, Exit
+Attach UIManager

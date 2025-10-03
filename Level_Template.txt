@@ -1,0 +1,3 @@
+Scene: Level_X
+Add: Ground (tag 'Ground'), Player prefab at start, Spawner, LevelThemeManager
+Create variations for Level_01..Level_20
